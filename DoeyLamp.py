@@ -111,7 +111,7 @@ while cap.isOpened(): # True:
 			wiringpi.digitalWrite(4,1)
 			wiringpi.digitalWrite(5,0)
             color = np.asarray((0, 255, 255))
-		elif emotion_text == 'neutral':
+	elif emotion_text == 'neutral':
 			wiringpi.digitalWrite(1,1)
 			wiringpi.digitalWrite(4,0)
 			wiringpi.digitalWrite(5,0)
