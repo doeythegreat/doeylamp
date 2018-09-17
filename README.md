@@ -1,12 +1,15 @@
 DoeyLamp
+
 	DoeyLamp is smart Lamp.
 	It recognizes human facial expressions and expresses human emotions in color.
 Environment
+
 	Hardware : Raspberry Pi3
 				Strip-Led
 				Pi-Camera
 	Language : Python 
 Credit
+
 	recognized Emotion code by GitHub User [petercunha] (https://github.com/petercunha).
 	GPIO handled by wiringPi-Python
 	Computer vision powered by OpenCV.
