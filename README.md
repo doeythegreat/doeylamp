@@ -2,6 +2,7 @@
 
 	DoeyLamp is smart Lamp.
 	It recognizes human facial expressions and expresses human emotions in color.
+	It can be healing buddy for color therapy.
 	
 <b>Environment</b>
 
